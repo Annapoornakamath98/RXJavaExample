@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RXJavaExample</string>
+    <string name="post">Post</string>
+    <string name="comments">comments</string>
+</resources>
